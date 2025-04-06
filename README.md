@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey! It's Justin 👋
 
-<!--
-**justinkiim/justinkiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who Am I?
+- I'm a senior year Mathematics and Business student at the University of Waterloo
+- I've previously worked as a People Advisory Services Mobility Accountant at Ernst & Young, and was previously a Data Scientist @ OntarioHose, on leading the digital transformation for the business. I'm currently working at Co-operators as a Portfolio Analytics & Insights intern on the Insights team, providing insights to various teams such as Pricing and Product teams.
 
-Here are some ideas to get you started:
+# Current Project
+- Hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Past Projects
+- SAP 
+- Alberta Wildfire
+
+# Contacts
+- kjhkjws@outlook.com
+- LinkedIn
