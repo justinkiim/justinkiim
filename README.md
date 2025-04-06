@@ -9,8 +9,9 @@
 - Hello
 
 # Past Projects
-- SAP 
-- Alberta Wildfire
+- **Sap - Sustainability & Multidimensional Poverty Index**: Developing data-driven policy recommendations for SAP's sustainability initiatives utilizing k-means clustering and random forest models
+- **Estimating the Serverity of Auto Claims**: Predicting claims exceeding the threshold using predictive models 
+- **EY - Predicting the Impact and Severity of Wildfires**: Predicting onset and progression of wildfires using LSTM and U-Net architectures
 
 # Contacts
 - kjhkjws@outlook.com
