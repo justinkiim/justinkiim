@@ -13,7 +13,7 @@
 - **Estimating the Serverity of Auto Claims**: Built predictive model to flag claims likely to exceed cost thresholds
 - **Predicting the Impact and Severity of Wildfires**: Designed deep learning models (LSTM and U-Net) to forecast wildfire onset and progression in Alberta
 
-## Tech Stack
+## 🧰 Tech Stack
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
