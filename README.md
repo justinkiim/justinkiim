@@ -1,18 +1,20 @@
-## Hey! It's Justin 👋
+## Hey! I'm Justin 👋
 
 # Who Am I?
-- I'm a senior year Mathematics and Business student at the University of Waterloo
-- I've previously worked as a People Advisory Services Mobility Accountant at Ernst & Young, and was previously a Data Scientist @ OntarioHose, on leading the digital transformation for the business. I'm currently working at Co-operators as a Portfolio Analytics & Insights intern on the Insights team, providing insights to various teams such as Pricing and Product teams.
-- I really enjoy playing the Violin, big fan of _____
+- 🎓 Senior Mathematics and Business student at the University of Waterloo
+- 💼 Experience in data science, analytics, and consulting - previously a People Advisory Services Mobility Intern at Ernst & Young and a Data Scientist at Ontario Hose.
+- 📊 Currently a **Portfolio Analytics & Insights Intern at Co-operators**, supporting Pricing and Product teams through data pipeline developement, portfolio monitoring, and more analysis
+- 🏀⚽ Love playing basketball and soccer - favourite teams to watch: Toronto Raptors and AC Milan
+- 🎻 Passionate violinist and music enthusiast
 
-# Current Project
-- Hello
+# 🌱 Current Project
+- None ATM
 
-# Past Projects
-- **Sap - Sustainability & Multidimensional Poverty Index**: Developing data-driven policy recommendations for SAP's sustainability initiatives utilizing k-means clustering and random forest models
-- **Estimating the Serverity of Auto Claims**: Predicting claims exceeding the threshold using predictive models 
-- **EY - Predicting the Impact and Severity of Wildfires**: Predicting onset and progression of wildfires using LSTM and U-Net architectures
+# 🧠 Past Projects
+- **Sustainability & Multidimensional Poverty Index**: Developed data-driven policy recommendations for SAP's sustainability initiatives using k-means clustering and random forest models
+- **Estimating the Serverity of Auto Claims**: Built predictive model to flag claims likely to exceed cost thresholds
+- **Predicting the Impact and Severity of Wildfires**: Designed deep learning models (LSTM and U-Net) to forecast wildfire onset and progression in Alberta
 
-# Contacts
-- kjhkjws@outlook.com
-- LinkedIn
+# 📫 Contacts
+- 📧 kjhkjws@outlook.com
+- 🔗 LinkedIn
