@@ -16,5 +16,5 @@
 - **Predicting the Impact and Severity of Wildfires**: Designed deep learning models (LSTM and U-Net) to forecast wildfire onset and progression in Alberta
 
 # 📫 Contacts
-- 📧 kjhkjws@outlook.com
-- 🔗 LinkedIn
+- 📧 [kjhkjws@outlook.com](mailto:kjhkjws@outlook.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/justinkim14/)
