@@ -1,4 +1,4 @@
-# Hey! I'm Justin 👋
+# Hello_World_I'm_Justin 👋
 - 🎓 Senior Mathematics and Business student at the University of Waterloo
 - 💼 Experience in data science, analytics, and consulting - previously a People Advisory Services Mobility Intern at Ernst & Young and a Data Scientist at Ontario Hose.
 - 📊 Currently a **Portfolio Analytics & Insights Intern at Co-operators**, supporting Pricing and Product teams through data pipeline developement, portfolio monitoring, and more analysis
