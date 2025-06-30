@@ -1,5 +1,5 @@
 # Hello_World, I'm Justin 👋
-- 📊 Currently a **Portfolio Analytics & Insights Intern @ Co-operators**, supporting Pricing and Product teams through data pipeline developement, portfolio monitoring, and more analysis
+- 📊 Currently a **Portfolio Analytics & Insights Analyst @ Co-operators**, supporting Pricing and Product teams through data pipeline developement, portfolio monitoring, and more analysis
 - 💼 Experience in data science, analytics, and consulting - previously a Staff Accountant II/I @ Ernst & Young and a Data Scientist @ Ontario Hose.
 - 🎓 Bachelor of Mathematics - Math + Stats + Business Administration @ University of Waterloo
 - 🏀⚽ Love playing basketball and soccer - favourite teams to watch: Toronto Raptors and AC Milan
