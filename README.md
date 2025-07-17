@@ -30,5 +30,5 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📫 Contacts
-- 📧 [kjhkjws@outlook.com](mailto:kjhkjws@outlook.com)
+- 📧 [j14kim@outlook.com](mailto:kjhkjws@outlook.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/justinkim14/)
